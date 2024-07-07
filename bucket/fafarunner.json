@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fafarunner/fafarunner/releases/download/v1.0.0%2B314/fafarunner_1.0.0+314_windows_x86_64.exe#/FaFa Runner.exe",
+            "url": "https://github.com/fafarunner/fafarunner/releases/download/v1.0.0%2B314/fafarunner_1.0.0+314_windows_x86_64.exe#/FaFa%20Runner.exe",
             "hash": "9816e22efd4ff0d53066acf0145b9c2a74c8954c1885b89afdf98b0060511d00"
         },
         "32bit": {
-            "url": "https://github.com/fafarunner/fafarunner/releases/download/v1.0.0%2B314/fafarunner_1.0.0+314_windows_x86_64.exe#/FaFa Runner.exe",
+            "url": "https://github.com/fafarunner/fafarunner/releases/download/v1.0.0%2B314/fafarunner_1.0.0+314_windows_x86_64.exe#/FaFa%20Runner.exe",
             "hash": "9816e22efd4ff0d53066acf0145b9c2a74c8954c1885b89afdf98b0060511d00"
         }
     },
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/fafarunner/fafarunner/releases/download/v$version/fafarunner_$version_windows_x86_64.exe#/FaFa Runner.exe"
+                "url": "https://github.com/fafarunner/fafarunner/releases/download/v$version/fafarunner_$version_windows_x86_64.exe#/FaFa%20Runner.exe"
             },
             "32bit": {
-                "url": "https://github.com/fafarunner/fafarunner/releases/download/v$version/fafarunner_$version_windows_x86_64.exe#/FaFa Runner.exe"
+                "url": "https://github.com/fafarunner/fafarunner/releases/download/v$version/fafarunner_$version_windows_x86_64.exe#/FaFa%20Runner.exe"
             }
         }
     }
